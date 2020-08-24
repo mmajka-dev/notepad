@@ -1,0 +1,160 @@
+{
+  "project_info": {
+    "project_number": "73646639077",
+    "firebase_url": "https://mynoteservices.firebaseio.com",
+    "project_id": "mynoteservices",
+    "storage_bucket": "mynoteservices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73646639077:android:07e9381203d438e87e110c",
+        "android_client_info": {
+          "package_name": "com.mmajka.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73646639077-evf4cg8ej65vntu6cgq0oe3ucduobtta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmajka.mynote",
+            "certificate_hash": "daaed2017c07ad2bd7990c20923515439f2477de"
+          }
+        },
+        {
+          "client_id": "73646639077-g0digjopo0gjabr5cu52kf5hospg61q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmajka.mynote",
+            "certificate_hash": "d88e0aae62dcbc84d7233d7cae0901298100d1c1"
+          }
+        },
+        {
+          "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqTaaV1oyEUL-bI6P43dMJzQ8H9at5l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2019892147848721~4771482047"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73646639077:android:4aa9e071dbb1366f7e110c",
+        "android_client_info": {
+          "package_name": "com.mmajka.mytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73646639077-6av8bvmnedq0rt85ftoesok7unvckevl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmajka.mytasks",
+            "certificate_hash": "d88e0aae62dcbc84d7233d7cae0901298100d1c1"
+          }
+        },
+        {
+          "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqTaaV1oyEUL-bI6P43dMJzQ8H9at5l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73646639077:android:a1633a447320e2137e110c",
+        "android_client_info": {
+          "package_name": "com.mmajka.notatnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqTaaV1oyEUL-bI6P43dMJzQ8H9at5l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73646639077:android:61101aa5ab1d593d7e110c",
+        "android_client_info": {
+          "package_name": "com.mmajka.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73646639077-6dfm0vp3nqm1ea7ocm8ur4h8oslbbvuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmajka.notepad",
+            "certificate_hash": "d88e0aae62dcbc84d7233d7cae0901298100d1c1"
+          }
+        },
+        {
+          "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqTaaV1oyEUL-bI6P43dMJzQ8H9at5l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73646639077-qfkr3b3f4sm89n7letj9jgacpklf9pbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
