@@ -40,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/notepad" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fHbN64LWKezBrqiETtl6f7h5lL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +56,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/anim" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -148,7 +148,22 @@
       <option name="presentableId" value="Default" />
       <updated>1595877921068</updated>
     </task>
+    <task id="LOCAL-00001" summary="24.08.2020">
+      <created>1598271776781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598271776781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/notepad" />
+    </ignored-roots>
+    <MESSAGE value="24.08.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.08.2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1598268174183">
@@ -175,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598265790259" />
+    <state x="517" y="125" key="CommitChangelistDialog2" timestamp="1598271774713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="125" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598271774713" />
     <state x="640" y="275" key="Downloadable.Font.Dialog.Size" timestamp="1597779058013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -199,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="413" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598268564067" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1597610640684">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1598271804552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597610640684" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598271804552" />
     <state x="552" y="263" key="Vcs.Push.Dialog.v2" timestamp="1598271581549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
